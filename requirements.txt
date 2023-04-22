@@ -8,3 +8,4 @@ oauth2client
 flask_restful
 jinja2==2.11.3
 flask-cors
+scikit-learn
