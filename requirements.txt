@@ -1,2 +1,10 @@
-# Function dependencies, for example:
-# package>=version
+Flask==1.1.2
+MarkupSafe==2.0.1
+gunicorn
+itsdangerous==2.0.1
+werkzeug==2.0.3
+requests
+oauth2client
+flask_restful
+jinja2==2.11.3
+flask-cors
